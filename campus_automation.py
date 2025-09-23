@@ -72,7 +72,7 @@ try:
         print("No switch found in the campus network.")
         exit()
     DASHBOARD.devices.updateDevice(serial=campus_switches[0]['serial'],name='Campus-Switch')
-    port_config = {'name': 'To-Campus-AP', 'allowedVlans' : '10-200', 'tags': ['wireless','meetingroom']}
+    port_config = {'name': 'To-Campus-AP', 'allowedVlans' : '1-200', 'tags': ['wireless','meetingroom']}
     result = DASHBOARD.switch.updateDeviceSwitchPort(serial=campus_switches[0]['serial'],portId='2',**port_config)
     if result != None:
         print("Port configuration was successfully updated.\nReady for the next lab step.\n")
