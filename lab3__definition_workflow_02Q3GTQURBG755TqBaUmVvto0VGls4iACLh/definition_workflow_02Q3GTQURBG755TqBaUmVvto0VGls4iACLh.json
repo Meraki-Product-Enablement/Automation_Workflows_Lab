@@ -26,7 +26,7 @@
         "properties": {
           "value": "",
           "scope": "input",
-          "name": "Target_Network_Name",
+          "name": "1_Target_Network_Name",
           "type": "datatype.string",
           "description": "Enter the name of your target network. It must match an existing network name.",
           "is_required": true,
@@ -42,7 +42,7 @@
         "properties": {
           "value": "",
           "scope": "input",
-          "name": "New_Network_Name",
+          "name": "2_New_Network_Name",
           "type": "datatype.string",
           "description": "Type in the new network name.",
           "is_required": true,
