@@ -1,0 +1,6 @@
+API Acccess to Meraki Launchpad🚀 demo organization
+
+Read-only API Key: 40ab3b2bc53f0b17768bd1d5e1d401c8d803b588
+
+**Please DON'T use this API key for other purposes. The Cisco Meraki team will
+rotate this key from time to time in case of any misuse.**
