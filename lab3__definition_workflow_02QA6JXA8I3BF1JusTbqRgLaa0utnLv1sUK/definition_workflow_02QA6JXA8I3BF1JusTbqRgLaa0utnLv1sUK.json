@@ -1028,7 +1028,7 @@
     "variable_02PXDE4Y31SL35l9zwHSIu5HhyQmZ8qvYgj": {
       "unique_name": "variable_02PXDE4Y31SL35l9zwHSIu5HhyQmZ8qvYgj",
       "properties": {
-        "value": "3665367146726164149",
+        "value": "[Replace this with your LAB org ID]",
         "scope": "global",
         "name": "LAB_ORG_ID_LAB3",
         "type": "datatype.string",
