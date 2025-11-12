@@ -124,7 +124,7 @@
               "condition": {
                 "left_operand": "$activity.definition_activity_02QA7BNNRIO186zXyfC4dpwVR4X49NXgQk6.output.variable_workflow_02OARCID71SU80NzHeL2nVHrHQU2JHkMs5J$",
                 "operator": "nmw",
-                "right_operand": "*\"email\":\"launchpad-labs-ops@cisco.com\",\"authenticationMethod\":\"Email\",\"orgAccess\":\"full\",\"accountStatus\":\"ok\"*"
+                "right_operand": "*\"email\":\"launchpad-labs-ops@cisco.com\"*"
               },
               "continue_on_failure": false,
               "display_name": "Not a Lab Org",
